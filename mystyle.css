@@ -1,0 +1,88 @@
+
+body{
+	margin: 0;
+	font-family: sans-serif;
+}
+.mybody{
+background-image:url('dollars.jpg');/* width="460" height="345";*/
+background-repeat: no-repeat;
+}
+.mybutton{
+	margin-left: 20px;
+}
+.myheader{
+	text-align: center;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+
+.header {
+  background-color: lightblue;
+  text-align: center;
+  padding: 20px;
+}
+	
+.button {
+  background-color: #4CAF50; /* Green */
+  border: 2px solid red;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
+
+
+/* The navbar container */
+.topnav {
+  overflow: hidden;
+  background-color: green;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+  background-color: #FF0000;
+  color: black;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
+/* Style the footer */
+.footer {
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+  text-decoration-color: white;
+}
