@@ -3,12 +3,18 @@ body{
 	margin: 0;
 	font-family: sans-serif;
 }
+.myform{
+	padding-left: 20px;
+}
 .mybody{
 background-image:url('dollars.jpg');/* width="460" height="345";*/
 background-repeat: no-repeat;
 }
 .mybutton{
 	margin-left: 20px;
+}
+.mybtn{
+	float:right;
 }
 .myheader{
 	text-align: center;
@@ -81,6 +87,7 @@ img {
 }
 /* Style the footer */
 .footer {
+	margin-top: 20px;
   background-color: black;
   padding: 10px;
   text-align: center;
