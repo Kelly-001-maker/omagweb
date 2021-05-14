@@ -229,7 +229,7 @@ input[type=submit]:hover {
 
 .menu-bar
 {
-    background-color: black;
+    background-color: green;
     text-align: center;
     
 }
@@ -241,7 +241,6 @@ input[type=submit]:hover {
 }
 .menu-bar ul li
 {
-    width: 120px;
     margin: 15px;
     padding: 15px;
 }
@@ -279,7 +278,6 @@ input[type=submit]:hover {
 }
 .menu-bar ul li:hover .sub-menu-1 ul li
 {
-    width: 150px;
     padding: 10px;
     border-bottom: 1px dotted #fff;
     background: transparent;
@@ -293,4 +291,8 @@ input[type=submit]:hover {
 .menu-bar ul li:hover .sub-menu-1 ul li a:hover
 {
     color: dodgerblue;
+}
+img{
+  max-width: 10%;
+  float:left;
 }
