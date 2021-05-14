@@ -32,10 +32,6 @@ background-repeat: no-repeat;
 .myheader{
 	text-align: center;
 }
-img {
-  width: 100%;
-  height: auto;
-}
 
 .header {
   background-color: lightblue;
