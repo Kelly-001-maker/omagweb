@@ -101,12 +101,9 @@ img {
   }
 }
 /* Style the footer */
-.footer {
+.footer-main {
 	margin-top: 20px;
-  background-color: black;
-  padding: 10px;
-  text-align: center;
-  text-decoration-color: white;
+
 }
 .loginbody{
     margin: 0;
