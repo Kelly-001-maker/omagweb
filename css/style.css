@@ -687,8 +687,8 @@
  .slides-navigation a {
      background: #d33b33;
      position: absolute;
-     height: 70px;
-     width: 70px;
+     height: 1%;
+     width: 2%px;
      top: 50%;
      font-size: 20px;
      display: block;
@@ -698,7 +698,7 @@
      transition: all .3s ease-in-out;
 }
  .slides-navigation a i{
-     font-size: 40px;
+     font-size: 30px;
 }
  .slides-navigation a:hover {
      background: #010101;
