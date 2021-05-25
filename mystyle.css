@@ -332,3 +332,82 @@ details summary{
     color: white;
 }
 
+.box{
+    margin: 20px;
+    background: #a0a0a0;
+    border-radius: 7px;
+    box-shadow: 1px 2px 4px #fff;
+        
+    
+}
+.box .heading{
+    font-family: fantasy;
+    color: #ff4500;
+}
+#parent{
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    
+}
+#parent > li{
+    display: inline-block;
+    width: 33%;
+    height: 100%;
+    background-color: #ff4500;
+    border-radius: 5px;
+     margin-bottom: 5px;
+}
+.box2{
+    margin: 20px;
+    background: #a0a0a0;
+    border-radius: 7px;
+    box-shadow: 1px 2px 4px #fff;
+    height: 160px;
+}
+.my_box{
+  background: #a0a0a0;  
+}
+        
+#parent2{
+    list-style: none;
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    
+}
+#parent2 > li{
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+    background-color: #ff4500;
+     border-radius: 5px;
+
+}
+
+}
+
+}
+.investbox input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 45px;
+    background: #ff4500;
+    color: brown;
+    font-size: 18px;
+    border-radius: 20px;
+    
+}
+.investbox input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+    
+}
+
