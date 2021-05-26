@@ -2457,8 +2457,8 @@ input[type=text]:focus,input[type=email]:focus,input[type=date]:focus,input[type
     color: white;
     text-align: center;
     width:100%;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 40px;
+    padding-bottom: 60px;
     padding-left: 20px;
     padding-right: 10px;
 }
@@ -2475,8 +2475,51 @@ input[type=text]:focus,input[type=email]:focus,input[type=date]:focus,input[type
     padding-left: 20px;
     padding-right: 10px;
 }
+.aboutpara{
+    padding-bottom: 15px;
+}
+.aboutbtn{
+    margin-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
 
 
+.explain{
+    padding-left:20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.mydivaff{
+    width:90%;
+    margin:5%;
+
+}
+.read{
+    margin-left:20px;
+}
+.pc1{
+    text-align: center;
+    width:90px;
+    font-size: 30px;
+    color:white;
+    background-color: #151B54;
+}
+.pc2{
+    text-align: center;
+    width:90px;
+    font-size: 30px;
+    color:white;
+    background-color: #1e90ff;
+}
+.part{
+    padding: 5px;
+}
+.my{
+    margin:20px;
+    width:90%;
+}
 
 
 
